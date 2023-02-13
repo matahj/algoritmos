@@ -30,6 +30,7 @@ public class Ej01_BusqedaLineal {
         }
     }
 
+    //BUSQUEDA LINEAL
     private static int busquedaLineal(int v, int[] A, int n) {
         int indice;
 
