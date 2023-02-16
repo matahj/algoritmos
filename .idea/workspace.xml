@@ -7,6 +7,7 @@
     <list default="true" id="dc3df29b-d092-4872-bdee-1a131720dc38" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/examples/t1_intro/Ej02_Producto2mayores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
       <workItem from="1676256892764" duration="3441000" />
       <workItem from="1676298220354" duration="660000" />
       <workItem from="1676319427975" duration="491000" />
-      <workItem from="1676547615435" duration="977000" />
+      <workItem from="1676547615435" duration="1245000" />
     </task>
     <servers />
   </component>

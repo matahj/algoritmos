@@ -24,6 +24,7 @@ public class Ej02_Producto2mayores {
         System.out.println("El producto de los dos mayores es " + producto + ".");
     }
 
+    //PRODUCTO DE LOS DOS MAYORES
     private static int producto2mayores(int[] A, int n) {
         int mayor1, mayor2;
         int i, resultado;
