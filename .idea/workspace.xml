@@ -8,6 +8,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/org/examples/t1_intro/Ej05_examen1Preg3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/examples/t1_intro/Ej06_examen1Preg4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/matahj/ueas/algoritmos",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -100,7 +102,7 @@
       <workItem from="1677026283914" duration="267000" />
       <workItem from="1677026649327" duration="10000" />
       <workItem from="1678390690161" duration="3981000" />
-      <workItem from="1682887841332" duration="836000" />
+      <workItem from="1682887841332" duration="1020000" />
     </task>
     <servers />
   </component>
