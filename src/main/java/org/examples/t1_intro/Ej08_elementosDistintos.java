@@ -28,6 +28,7 @@ public class Ej08_elementosDistintos {
 
     }
 
+    //ALGORITMO QUE INDICA SI TODOS LOS ELEMENTOS SON DISTINTOS
     private static boolean sonDistintos(int[] A, int n) {
 
         for (int i=0; i<n-1; i++){
