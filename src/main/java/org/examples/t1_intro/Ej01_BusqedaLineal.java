@@ -2,7 +2,7 @@ package org.examples.t1_intro;
 
 import java.util.Scanner;
 
-import static org.examples.matrices.OpsMatrices.*;
+import static org.examples.matrices.OpsArreglos.*;
 
 public class Ej01_BusqedaLineal {
 

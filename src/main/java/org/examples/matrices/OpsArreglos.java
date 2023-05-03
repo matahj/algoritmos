@@ -1,6 +1,6 @@
 package org.examples.matrices;
 
-public class OpsMatrices {
+public class OpsArreglos {
 
     public static int[] generarArreglo(int n) {
         int[] A = new int[n];

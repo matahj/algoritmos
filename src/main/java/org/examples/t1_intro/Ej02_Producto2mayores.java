@@ -2,8 +2,8 @@ package org.examples.t1_intro;
 
 import java.util.Scanner;
 
-import static org.examples.matrices.OpsMatrices.generarArreglo;
-import static org.examples.matrices.OpsMatrices.imprimeArreglo;
+import static org.examples.matrices.OpsArreglos.generarArreglo;
+import static org.examples.matrices.OpsArreglos.imprimeArreglo;
 
 public class Ej02_Producto2mayores {
 
