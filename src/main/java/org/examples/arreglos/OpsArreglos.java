@@ -1,4 +1,4 @@
-package org.examples.matrices;
+package org.examples.arreglos;
 
 public class OpsArreglos {
 

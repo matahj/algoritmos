@@ -2,7 +2,7 @@ package org.examples.t1_intro;
 
 import java.util.Scanner;
 
-import static org.examples.matrices.OpsArreglos.*;
+import static org.examples.arreglos.OpsArreglos.*;
 
 public class Ej05_matrixMulti {
     public static void main(String[] args) {

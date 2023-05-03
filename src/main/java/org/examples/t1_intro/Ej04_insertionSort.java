@@ -2,8 +2,8 @@ package org.examples.t1_intro;
 
 import java.util.Scanner;
 
-import static org.examples.matrices.OpsArreglos.generarArreglo;
-import static org.examples.matrices.OpsArreglos.imprimeArreglo;
+import static org.examples.arreglos.OpsArreglos.generarArreglo;
+import static org.examples.arreglos.OpsArreglos.imprimeArreglo;
 
 public class Ej04_insertionSort {
     public static void main(String[] args) {
