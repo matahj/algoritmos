@@ -48,11 +48,11 @@
 }</component>
   <component name="RunManager" selected="Application.Ej08_elementosDistintos">
     <configuration name="Ej05_matrixMulti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.examples.t1_intro.Ej05_matrixMulti" />
+      <option name="MAIN_CLASS_NAME" value="org.examples.t1_iterativos.Ej05_matrixMulti" />
       <module name="algoritmos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.examples.t1_intro.*" />
+          <option name="PATTERN" value="org.examples.t1_iterativos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,11 +61,11 @@
       </method>
     </configuration>
     <configuration name="Ej06_examen1Preg3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.examples.t1_intro.Ej06_examen1Preg3" />
+      <option name="MAIN_CLASS_NAME" value="org.examples.t1_iterativos.Ej06_examen1Preg3" />
       <module name="algoritmos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.examples.t1_intro.*" />
+          <option name="PATTERN" value="org.examples.t1_iterativos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,11 +74,11 @@
       </method>
     </configuration>
     <configuration name="Ej07_examen1Preg4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.examples.t1_intro.Ej07_examen1Preg4" />
+      <option name="MAIN_CLASS_NAME" value="org.examples.t1_iterativos.Ej07_examen1Preg4" />
       <module name="algoritmos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.examples.t1_intro.*" />
+          <option name="PATTERN" value="org.examples.t1_iterativos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,11 +87,11 @@
       </method>
     </configuration>
     <configuration name="Ej08_elementosDistintos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.examples.t1_intro.Ej08_elementosDistintos" />
+      <option name="MAIN_CLASS_NAME" value="org.examples.t1_iterativos.Ej08_elementosDistintos" />
       <module name="algoritmos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.examples.t1_intro.*" />
+          <option name="PATTERN" value="org.examples.t1_iterativos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

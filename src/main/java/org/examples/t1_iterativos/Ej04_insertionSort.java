@@ -1,4 +1,4 @@
-package org.examples.t1_intro;
+package org.examples.t1_iterativos;
 
 import java.util.Scanner;
 
