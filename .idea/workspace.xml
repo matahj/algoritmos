@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc3df29b-d092-4872-bdee-1a131720dc38" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/examples/t1_intro/Ej08_elementosDistintos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/examples/t1_intro/Ej08_elementosDistintos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +128,7 @@
       <workItem from="1677026649327" duration="10000" />
       <workItem from="1678390690161" duration="3981000" />
       <workItem from="1682887841332" duration="1071000" />
-      <workItem from="1683081256300" duration="6502000" />
+      <workItem from="1683081256300" duration="6963000" />
     </task>
     <servers />
   </component>
