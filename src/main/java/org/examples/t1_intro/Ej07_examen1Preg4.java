@@ -5,7 +5,7 @@ import java.util.Scanner;
 import static org.examples.matrices.OpsMatrices.generarArreglo;
 import static org.examples.matrices.OpsMatrices.imprimeArreglo;
 
-public class Ej06_examen1Preg4 {
+public class Ej07_examen1Preg4 {
     public static void main(String[] args) {
         int n;
         int[] A;

@@ -17,4 +17,26 @@ public class OpsMatrices {
         }
         System.out.println(" ");
     }
+
+    public static void imprimeMtz(int[][] A, int m, int n) {
+        for (int i=0; i<m; i++){
+            for (int j=0; j<n; j++){
+                System.out.print("[" + A[i][j] + "]");
+            }
+            System.out.println();
+        }
+        System.out.println();
+    }
+
+    public static int[][] generarMtz(int m, int n) {
+        int[][] A = new int[m][n];
+
+        for (int i=0; i<m; i++){
+            for (int j=0; j<n; j++){
+                A[i][j] = (int)Math.floor(Math.random()*10);
+            }
+        }
+
+        return A;
+    }
 }
