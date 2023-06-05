@@ -13,7 +13,12 @@ Implementación, en Java, de los algoritmos de la clase Análisis y diseño de a
 - [Elementos distintos en un arreglo.](src/main/java/org/examples/t1_iterativos/Ej08_elementosDistintos.java)
 - [Encontrar una subcadena.](src/main/java/org/examples/t1_iterativos/Ej09_subCadena.java)
 
-3. Algoritmos recursivos.
+2. Algoritmos recursivos.
+- [Factorial](src/main/java/org/examples/t2_recursivos/Ej01_factorial.java)
+- [Potencia](src/main/java/org/examples/t2_recursivos/Ej02_potencia.java)
+- [Máximo](src/main/java/org/examples/t2_recursivos/Ej03_maximo.java)
+- [Hojas](src/main/java/org/examples/t2_recursivos/Ej04_hojas.java)
+- [Hanoi](src/main/java/org/examples/t2_recursivos/Ej05_hanoi.java)
  
 #### Códigos Extra
 1. [Operaciones con arreglos.](src/main/java/org/examples/arreglos/OpsMatrices.java)
