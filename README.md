@@ -21,5 +21,5 @@ Implementación, en Java, de los algoritmos de la clase Análisis y diseño de a
 - [Hanoi](src/main/java/org/examples/t2_recursivos/Ej05_hanoi.java)
  
 #### Códigos Extra
-1. [Operaciones con arreglos.](src/main/java/org/examples/arreglos/OpsMatrices.java)
+1. [Operaciones con arreglos.](src/main/java/org/examples/arreglos/OpsArreglos.java)
 

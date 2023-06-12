@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc3df29b-d092-4872-bdee-1a131720dc38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/examples/t2_recursivos/Ej06_mergesort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/examples/t2_recursivos/Ej07_quicksort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/examples/t3_backtrack/Ej01_backtrack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +178,7 @@
       <workItem from="1686248001339" duration="31000" />
       <workItem from="1686577720840" duration="884000" />
       <workItem from="1686595125141" duration="30000" />
-      <workItem from="1686595160982" duration="405000" />
+      <workItem from="1686595160982" duration="715000" />
     </task>
     <servers />
   </component>
