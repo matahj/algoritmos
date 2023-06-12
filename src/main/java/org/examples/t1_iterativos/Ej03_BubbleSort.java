@@ -7,12 +7,8 @@ import static org.examples.arreglos.OpsArreglos.imprimeArreglo;
 
 public class Ej03_BubbleSort {
     public static void main(String[] args) {
-        int n;
+        int n = 20;
         int[] A;
-        Scanner scanner = new Scanner(System.in);
-
-        System.out.println("Indique el valor de n: ");
-        n = scanner.nextInt();
 
         A = generarArreglo(n);
         imprimeArreglo(A,n);
